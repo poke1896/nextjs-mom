@@ -24,7 +24,7 @@ export default function RootLayout({
       <body className={`${inter.className} bg-gray-100 flex flex-col min-h-screen`}>
         <header className="fixed w-full bg-transparent z-50">
           <nav className="container mx-auto p-4 flex justify-between items-center">
-            <div className="text-black text-xl font-bold">Guarakay</div>
+            <img src="/logo4.png" alt="Logo Guarakay" className="mt-4  h-8" />
             {/* Puedes agregar más elementos en la Navbar aquí */}
           </nav>
         </header>

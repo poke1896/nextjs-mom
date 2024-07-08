@@ -35,7 +35,7 @@ const HomePage = () => {
       </div>
       <p className="text-lg text-gray-800">Contacto: {data.phone}</p>
       <p className="text-lg text-gray-800">Email: {data.email}</p>
-      <img src="/logo.svg" alt="Logo Guarakay" className="mt-4 mx-auto h-22" />
+      <img src="/logo3.png" alt="Logo Guarakay" className="mt-4 mx-auto h-22" />
     </div>
   );
 };
