@@ -3,7 +3,7 @@ const data = {
     ownerName: 'Claudia Elizondo Fernández',
     phone: '506-86165808',
     email: 'elizondoclaudia820@gmail.com',
-    description: 'Guarakay es una microempresa dedicada a la creación de joyería única hecha con elementos naturales como alas de mariposa, plumas de aves, y hojas o flores. Cada pieza es cuidadosamente elaborada para resaltar la belleza de la naturaleza y transformarla en una obra de arte portátil.',
+    description: 'Guarakay es una microempresa artesanal dedicada a la creación de joyería única, hecha con elementos naturales que ya han terminado su ciclo de vida, tales como alas de mariposa, plumas de aves, y hojas o flores. Cada pieza es cuidadosamente elaborada para resaltar la belleza de la naturaleza, respetando su ciclo de vida y transformándola en una obra de arte portátil.',
     socialLinks: {
       instagram: 'https://www.instagram.com/tu_usuario_instagram',
       facebook: 'https://www.facebook.com/tu_usuario_facebook',
