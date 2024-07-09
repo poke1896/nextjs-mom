@@ -53,7 +53,7 @@ const HomePage = () => {
         <img src="/Logo_Artesanias_1.png" alt="Artesanías Logo 1" className="h-24" />
       </div>
       <div className="flex justify-center space-x-4 mt-8">
-        <img src="/lazona.png" alt="La Zona" className="h-24" />
+        <img src="/lz.png" alt="La Zona" className="h-24" />
         <img src="/ict-footer.png" alt="ICT Footer" className="h-24" />
       </div>
     </div>
